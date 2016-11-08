@@ -1,6 +1,6 @@
 # primes
 
-/// generate primes 
+/// generate primes in c
 
 /// large values may be computationally intesive relative to your architecture/s
 
