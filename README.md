@@ -2,7 +2,7 @@
 
 /// generate primes in c
 
-/// large values may be computationally intesive relative to your architecture/s
+/// large values may be computationally intensive relative to your architecture/s
 
 /// please monitor run machine's sensors:
 
