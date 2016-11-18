@@ -11,6 +11,14 @@
 /// or possibly Glances https://nicolargo.github.io/glances/ 
 
 
+/// gcc 
+
+gcc -Wall primes.c -o primes   /// -m32 or -m64 bit switch
+
+$chmod u+x primes
+
+$./primes
+
 /// more on prime numbers
 
 http://mathworld.wolfram.com/PrimeNumber.html
@@ -18,5 +26,8 @@ http://mathworld.wolfram.com/PrimeNumber.html
 http://mathworld.wolfram.com/PrimeFormulas.html
 
 http://mathworld.wolfram.com/RiemannHypothesis.html
+
+
+
 
 
