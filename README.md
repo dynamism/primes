@@ -8,7 +8,7 @@
 
 /// In BASH $ __=`sensors | grep Core` && echo \(`echo $__ | sed 's/.*+\(.*\).C\(\s\)\+(.*/\1/g' | tr "\n" "+" | head -c-1`\)\/`echo $__ | wc -l` | bc && unset __
 
-/// or possibly Glances https://nicolargo.github.io/glances/ 
+/// Glances https://nicolargo.github.io/glances/ 
 
 
 /// gcc 
