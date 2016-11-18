@@ -2,9 +2,9 @@
 
 /// generate primes in c
 
-/// large values may be computationally intensive relative to your architecture/s
+/// large values may be computationally intensive
 
-/// please monitor run machine's sensors:
+/// monitor run machine's sensors:
 
 /// In BASH $ __=`sensors | grep Core` && echo \(`echo $__ | sed 's/.*+\(.*\).C\(\s\)\+(.*/\1/g' | tr "\n" "+" | head -c-1`\)\/`echo $__ | wc -l` | bc && unset __
 
